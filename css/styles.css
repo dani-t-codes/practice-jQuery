@@ -11,3 +11,14 @@
   text-decoration: underline;
   font-weight: bold;
 }
+
+#hide-walrus { 
+  cursor: pointer;
+  color: purple;
+}
+
+#hide-walrus:hover {
+  text-decoration: underline;
+  font-weight: bolder;
+  color: purple;
+}
