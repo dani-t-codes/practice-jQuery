@@ -2,7 +2,12 @@
   display: none;
 }
 
-.walrus-size {
-  width: 40px;
-  height: auto;
+.clickable { 
+  cursor: pointer;
+  color: purple;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+  font-weight: bold;
 }
