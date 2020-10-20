@@ -1,3 +1,7 @@
+body {
+  font-family: OCR A Std, monospace;
+}
+
 .walrus-showing {
   display: none;
 }
@@ -21,4 +25,25 @@
   text-decoration: underline;
   font-weight: bolder;
   color: purple;
+}
+
+.dark-mode {
+  background-color: black;
+  color: plum;
+}
+
+.light-mode {
+  background: beige;
+  color: black;
+}
+
+#dark {
+  font-family: fantasy;
+  background-color: black;
+  color: plum;
+}
+
+#light {
+  font-family: fantasy;
+  background-color: beige;
 }
