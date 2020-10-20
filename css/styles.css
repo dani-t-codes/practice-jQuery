@@ -6,6 +6,11 @@ body {
   display: none;
 }
 
+img {
+  border-radius: 75%;
+  box-shadow: 0 0 12px plum;
+}
+
 .clickable { 
   cursor: pointer;
   color: purple;
